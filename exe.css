@@ -1,0 +1,31 @@
+h1{
+	font-size:375%;
+	
+	font-weight: bold;
+	color:white;
+	text-align: center;
+
+}
+div {
+  border: 10px solid white;
+  margin-top: 11em;  
+  background-color: #0b9eec;	
+  padding-right: 0.1px;
+  padding-bottom: 10px;
+  padding-left: 0.1px;
+width:700px;
+  text-align:center;
+}
+
+h2{
+
+	font-size:170%;
+	color:white;
+	text-align: center;
+	
+}
+
+body{
+	background-color:#0b9eec;
+}
+
